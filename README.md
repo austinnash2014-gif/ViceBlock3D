@@ -6,3 +6,4 @@ The cheat code for the Admin Menu is MERRY_CHRISTMAS.
 Co-Developer: Sebbacon88
 
 NOT BEING MONETISED, JUST MAKING THIS FOR FUN DO NOT BAN THIS ROCKSTAR
+(i did use claude ai)
