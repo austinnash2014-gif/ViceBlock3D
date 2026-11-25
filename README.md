@@ -1,5 +1,5 @@
-ViceBlock3D (not monetising this don't sue me Rockstar)
-GTA inspired open world game. Still in early development.
-How To Download: click on the latest release, then click assets, then find the one you want.
-Browser version at: austinnash2014-gif.github.io 
-Cheat code: MERRY_CHRISTMAS
+ViceBlock3D is a heavily GTA-based game still in early development, featuring a city, suburbs, park, lake, and beach. It was written in HTML.
+The cheat code for the Admin Menu is MERRY_CHRISTMAS.
+NOT BEING MONETISED, JUST CODING FOR FUN DO NOT BAN THIS ROCKSTAR
+Co-Developer: Sebbacon88
+Does not feature missions as the game is in its early stages. They will be added in 1.0.0.
